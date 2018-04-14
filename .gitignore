@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+
+/src/*
+!/src/main/
+!/src/test/
+
+!pom.xml
